@@ -1,5 +1,5 @@
 # Video
-![in Development](https://img.shields.io/badge/Effect%20-%20Video-black) 
+![in Development](https://img.shields.io/badge/Effect%20-%20Video-pink) 
 
 
 🛠️Construído com
@@ -10,8 +10,8 @@ CSS <br>
 
 ## 🚀 App no ar
 
-App no ar:https://cardhoverok.netlify.app/ <br>
-tutorial:https://www.youtube.com/watch?v=8b2mTq0Xrtw
+App no ar:https://effectvideo.netlify.app/
+tutorial:https://www.youtube.com/watch?v=S1LyYnyqRRs&t=8s
 
 
 ## Developer
