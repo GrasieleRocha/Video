@@ -10,7 +10,7 @@ CSS <br>
 
 ## 🚀 App no ar
 
-App no ar:https://effectvideo.netlify.app/
+App no ar:https://effectvideo.netlify.app/ <br>
 tutorial:https://www.youtube.com/watch?v=S1LyYnyqRRs&t=8s
 
 
